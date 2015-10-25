@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	text-align:center;
+	background-image:url(../images/pink_rice.png); /* Background pattern "Pink Rice" from subtlepatterns.com */
+	background-repeat:repeat;
+}
+
+#header {
+	max-width:100%;
+}
+
+#past {
+	position:absolute;
+	left:5px;
+	bottom:5px;
+}
+
+.hidden {
+	display:none;
+}
